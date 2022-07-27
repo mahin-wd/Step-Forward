@@ -1,0 +1,31 @@
+.head{
+    background-color: #feffe983;
+    padding-bottom: 80px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo{
+    width: 300px;
+}
+
+.head-line{
+    font-size: 60px;
+    color: #e67a3b;
+}
+
+.run{
+    color: #1e2038;
+}
+
+.footer{
+    background-color: #1e2038;
+    color: #dbdbdb;
+}
+
+.footer h2{
+    font-size: 50px;
+}
